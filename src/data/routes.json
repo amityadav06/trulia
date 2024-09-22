@@ -1,0 +1,43 @@
+[
+    {
+      "page": "Buy",
+      "links": [
+        { "label": "buy home", "icon": "FaCreditCard", "url": "/" },
+        { "label": "homes for sale", "icon": "FaCreditCard", "url": "/" },
+        { "label": "homes for rent", "icon": "FaCreditCard", "url": "/" },
+        { "label": "new homes", "icon": "FaCreditCard", "url": "/" },
+        { "label": "recently sold", "icon": "FaCreditCard", "url": "/" },
+        { "label": "connect", "icon": "FaCreditCard", "url": "/" },
+        { "label": "home in town", "icon": "FaCreditCard", "url": "/" },
+        { "label": "terminal", "icon": "FaCreditCard", "url": "/" },
+        { "label": "connect", "icon": "FaCreditCard", "url": "/" },
+        { "label": "buy home", "icon": "FaCreditCard", "url": "/" },
+        { "label": "homes for sale", "icon": "FaCreditCard", "url": "/" },
+        { "label": "homes for rent", "icon": "FaCreditCard", "url": "/" },
+        { "label": "new homes", "icon": "FaCreditCard", "url": "/" },
+        { "label": "recently sold", "icon": "FaCreditCard", "url": "/" },
+        { "label": "connect", "icon": "FaCreditCard", "url": "/" }
+      ]
+    },
+    {
+      "page": "Rent",
+      "links": [
+        { "label": "plugins", "icon": "FaBook", "url": "/" },
+        { "label": "libraries", "icon": "FaBook", "url": "/" },
+        { "label": "help", "icon": "FaBook", "url": "/" },
+        { "label": "billing", "icon": "FaBook", "url": "/" }
+      ]
+    },
+    {
+      "page": "Mortgage",
+      "links": [
+        { "label": "about", "icon": "FaBriefcase", "url": "/" },
+        { "label": "customers", "icon": "FaBriefcase", "url": "/" },
+        { "label": "homes for sale", "icon": "FaCreditCard", "url": "/" },
+        { "label": "homes for rent", "icon": "FaCreditCard", "url": "/" },
+        { "label": "new homes", "icon": "FaCreditCard", "url": "/" },
+        { "label": "recently sold", "icon": "FaCreditCard", "url": "/" }
+      ]
+    }
+  ]
+  
