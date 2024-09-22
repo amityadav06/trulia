@@ -22,6 +22,7 @@ Features
 - Home list carousel using dummy json.
 - For next section, I have used product API because we dont have house API with all these details
 - Desktop and mobile responsiveness.
+- Implemented debouncing for searching.
 
 Tech Stack
 - Vite: Fast build tool for modern web projects.
